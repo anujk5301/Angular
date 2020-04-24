@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\ApiAngular\ApiAngular\bin\Debug\netcoreapp2.1\ApiAngular.deps.json
+C:\Users\hp\source\repos\ApiAngular\ApiAngular\bin\Debug\netcoreapp2.1\ApiAngular.runtimeconfig.json
+C:\Users\hp\source\repos\ApiAngular\ApiAngular\bin\Debug\netcoreapp2.1\ApiAngular.runtimeconfig.dev.json
+C:\Users\hp\source\repos\ApiAngular\ApiAngular\bin\Debug\netcoreapp2.1\ApiAngular.dll
+C:\Users\hp\source\repos\ApiAngular\ApiAngular\obj\Debug\netcoreapp2.1\ApiAngular.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ApiAngular\ApiAngular\obj\Debug\netcoreapp2.1\ApiAngular.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ApiAngular\ApiAngular\obj\Debug\netcoreapp2.1\ApiAngular.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\ApiAngular\ApiAngular\obj\Debug\netcoreapp2.1\ApiAngular.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\ApiAngular\ApiAngular\obj\Debug\netcoreapp2.1\ApiAngular.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ApiAngular\ApiAngular\obj\Debug\netcoreapp2.1\ApiAngular.AssemblyInfo.cs
+C:\Users\hp\source\repos\ApiAngular\ApiAngular\obj\Debug\netcoreapp2.1\ApiAngular.RazorTargetAssemblyInfo.cache
+C:\Users\hp\source\repos\ApiAngular\ApiAngular\bin\Debug\netcoreapp2.1\ApiAngular.pdb
+C:\Users\hp\source\repos\ApiAngular\ApiAngular\obj\Debug\netcoreapp2.1\ApiAngular.dll
+C:\Users\hp\source\repos\ApiAngular\ApiAngular\obj\Debug\netcoreapp2.1\ApiAngular.pdb
